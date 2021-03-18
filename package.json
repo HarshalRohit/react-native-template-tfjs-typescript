@@ -1,0 +1,9 @@
+{
+    "name": "react-native-typescript-tensorflowjs-template",
+    "version": "0.0.1",
+    "description": "React Native Typescript starter project with Tensorflowjs related configurations pre-configured.",
+    "author": "Harshal Rohit <rohitharshal95@gmail.com>",
+    "dependencies": {
+        "react-native-unimodules": "^0.12.0"
+    }
+}
