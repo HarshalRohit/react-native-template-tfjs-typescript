@@ -1,5 +1,5 @@
 # React Native Template Tensorflowjs Typescript
-> A React Native template pre-configured with tensorflowjs and Typescript
+> A React Native template pre-configured with Tensorflowjs and Typescript
 
 ## Features
 TODO:
