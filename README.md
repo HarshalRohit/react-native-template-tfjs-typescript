@@ -6,7 +6,7 @@ TODO:
 
 ## Usage
 ```sh
-npx react-native init MyApp --template 
+npx react-native init MyApp --template https://github.com/HarshalRohit/react-native-template-tfjs-typescript.git
 ```
 
 
